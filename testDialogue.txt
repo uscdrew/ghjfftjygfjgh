@@ -1,0 +1,15 @@
+Hey!  Bartender!  I need a drink!	0	0
+Heh, sorry, I must have been daydreaming.	1	0
+Daydreaming?  And they let you man the bar?	0	0
+I'll pretend I didn't hear that.  Now, what can I get you?	1	0
+Anything's fine, I don't care.	0	0
+Alright, anything's fine for the orc...	1	1
+Here, will this do?	1	0
+Yeah, I suppose this is fine.	0	0
+Now I have to ask, does this apathetic Orc have a name?	1	0
+Heh, I suppose I do.  The name's Hiemdall.	2	0
+Got it.  Hiemdall: the orc of apathy!	1	0
+...Do you have a habit of loudly repeating things people tell you?	2	0
+Haha, I guess its a kind of, uh, habit of mine.	1	0
+...Right.  Thanks for the drink, I'm out of here.	2	0
+Anytime!	1	0
